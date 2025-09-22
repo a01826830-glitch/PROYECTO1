@@ -20,4 +20,5 @@ for index, row in df.iterrows():
      a, p = circulo(row['MEDIDA1'])     
      print("El area del circulo: ",a )
      print("El perimetro del circulo es: ",p )
+
      

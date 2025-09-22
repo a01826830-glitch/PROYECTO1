@@ -18,3 +18,4 @@ def triangulo(base, altura):
 	perimetro= base + altura + cateto
 	return area, perimetro
 #print (triangulo (17,18))
+
